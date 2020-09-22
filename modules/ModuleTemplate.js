@@ -7,13 +7,13 @@ const MY_MODULE = {
   toString: () => '[📐 My Module]',
   execute: function(text) {
     if (this.isEnabled()) {
-      // TODO Your module logic goes here.
+      // TODO Your module's logic goes here.
     }
   },
   initialize: function() {
   // TODO Change this property to your module's name.
     state.myModule = Object.seal({
-      // Your properties go here.
+      // TODO Your module's properties go here.
     });
   },
   destroy: function() {
