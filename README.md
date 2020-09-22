@@ -11,7 +11,7 @@ https://github.com/MousAIDungeon/script-pack-1/wiki/Modules
 ### How do I install the scripts?
 Simply copy the code found in `InputModifier.js`, `ContextModifier.js`, and `OutputModifier.js` into the appropriate sections of the Scripts<sup>\*</sup> page in your scenario. Be careful! Be sure to replace all of the default code in those sections with the code found here. Also, make sure you don't accidentally type anything extraneous in the code area, as this will cause your scripts to not work and will probably break your scenario.
 
-*Optional:* After pasting the code, follow the instructions in the red colored comments found at the top of the `InputModifier.js` script to install/uninstall individual modules as you see fit.
+*Optional:* After pasting the code, follow the instructions in the red colored comments found at the top of `InputModifier.js` to install/uninstall individual modules as you see fit.
 
 **Tip:** If you're worried about making a mistake and rendering your scenario unplayable, simply make a duplicate of it before pasting the scripts. Duplicate is a feature added in a recent update and is the double-page icon found in the top-right corner.
 
