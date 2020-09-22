@@ -5,7 +5,7 @@ The MousAI Script Pack I is a collection of modularized scripts for use in scena
 ### How does it work?
 Scenario writers need only copy and paste the scripts into their scenarios, then use World Info or "/" commands ("slash commands") to utilize the functions they want to use.
 ### It's really that easy?
-Yep! Although each module will have its own set of instructions for you to follow, we've done our best to standardize how you interact with the scripts to make it as easy as possible for you to use them. Right now, that generally means World Info entries and slash commands is all you need to control the scripts. Lucky you!
+Yep! Although each module will have its own set of instructions for you to follow, we've done our best to standardize how you interact with the scripts to make it as easy as possible for you to use them. Right now, that generally means World Info entries and slash commands are all you need to control the scripts. Lucky you!
 
 Check the wiki for information on individual modules:<br />
 https://github.com/MousAIDungeon/script-pack-1/wiki/Modules
