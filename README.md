@@ -8,16 +8,16 @@ Yep! Although each module will have its own set of instructions for you to follo
 
 #### To learn more about individual modules, check out the wiki:
 https://github.com/MousAIDungeon/script-pack-1/wiki/Modules
-### How do I install the scripts?
-Simply copy the code found in `InputModifier.js`, `ContextModifier.js`, and `OutputModifier.js` into the appropriate sections of the Scripts<sup>\*</sup> page in your scenario. Be careful! Be sure to replace all of the default code in those sections with the code found here. Also, make sure you don't accidentally type anything extraneous in the code area, as this will cause your scripts to not work and will probably break your scenario.
+## How do I install the scripts?
+Simply copy the code found in `InputModifier.js`, `ContextModifier.js`, and `OutputModifier.js` into the appropriate sections of the *Scripts*<sup>\*</sup> page in your scenario. Be careful! Be sure to replace all of the default code in those sections with the code found here. Also, make sure you don't accidentally type anything extraneous in the code area, as this will cause your scripts to not work and will probably break your scenario.
 
 *Optional:* After pasting the code, follow the instructions in the red colored comments found at the top of `InputModifier.js` to install/uninstall individual modules as you see fit.
 
-**Tip:** If you're worried about making a mistake and rendering your scenario unplayable, simply make a duplicate of it before pasting the scripts. Duplicate is a feature added in a recent update and is the double-page icon found in the top-right corner.
+**Tip:** If you're worried about making a mistake and rendering your scenario unplayable, simply make a duplicate of it before pasting the scripts. "Duplicate" is a feature added in a recent update and is the double-page icon found in the top-right corner of the *Edit Scenario* screen.
 
 **Bonus Tip:** In case you didn't duplicate your scenario but want to remove the script pack, you can find the default code that's included with all newly created scenarios in the `/default` folder. Simply replace the script pack code with the default code to revert.
 
-<sub>*\*Note: Please be aware that as of this writing, you need a premium subscription to access and use Scripts.*</sub>
+<sub>*\*Note: Please be aware that as of this writing, you need a premium subscription to access and use *Scripts*.*</sub>
 
 #### For a more comprehensive tutorial, check out the wiki:
 https://github.com/MousAIDungeon/script-pack-1/wiki/Tutorial
