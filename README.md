@@ -11,11 +11,11 @@ https://github.com/MousAIDungeon/script-pack-1/wiki/Modules
 ## How do I install the scripts?
 Simply copy the code found in the `/modifiers` folder. (You currently only need the input and output modifiers; the context modifier can be ignored.) Paste the code from `InputModifier.js` and `OutputModifier.js` into the appropriate sections of the *Scripts*<sup>\*</sup> page in your scenario. Be careful! Be sure to replace all of the default code in those sections with the code found here. Also, make sure you don't accidentally type anything extraneous in the code area, as this will cause your scripts to not work and will probably break your scenario.
 
-*Optional:* After pasting the code, follow the instructions in the red colored comments found at the top of `InputModifier.js` to install/uninstall individual modules as you see fit.
+*Optional:* After pasting the code, follow the instructions in the red colored comments found at the top of `InputModifier.js` to install/uninstall individual modules as you see fit. All modules are installed by default, however, and you can opt to simply ignore the modules you don't want to use.
 
-**Tip:** If you're worried about making a mistake and rendering your scenario unplayable, simply make a duplicate of it before pasting the scripts. "Duplicate" is a feature added to AI Dungeon in a recent update and is the double-page icon found in the top-right corner of the *Edit Scenario* screen.
+**Tip 1:** If you're worried about making a mistake and rendering your scenario unplayable, simply make a duplicate of it before pasting the scripts. "Duplicate" is a feature added to AI Dungeon in a recent update and is the double-page icon found in the top-right corner of the *Edit Scenario* screen. This is not a good solution for scenarios that are already published, as user interactions (upvotes/comments) are NOT duplicated. In that case, see the next tip.
 
-**Bonus Tip:** In case you didn't duplicate your scenario but want to remove the script pack, you can find the default code that's included with all newly created scenarios in the `/default` folder. Simply replace the script pack code with the default code to revert.
+**Tip 2:** In case you didn't duplicate your scenario but want to remove the script pack, you can find the default code that's included with all newly created scenarios in the `/default` folder. Simply replace the script pack code with the default code to revert.
 
 <sub>*\*Note: Please be aware that as of this writing, you need a premium subscription to access and use *Scripts*.*</sub>
 
