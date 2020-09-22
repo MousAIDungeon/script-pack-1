@@ -370,7 +370,7 @@ function getDebugText() {
       debugText += '\n' + Module.EVENTS.toString() + ' Turn ' + state.events.turn + ": " + state.events.text
     }
   }
-  debugText += '\n' + ICON_AUTHORS_NOTE + ': ' + state.memory.authorsNote
+  debugText += '\n' + ICON_AUTHORS_NOTE + ': ' + state.authorsNoteText
   debugText += '\n' + ICON_FRONT_MEMORY + ': ' + state.memory.frontMemory
   debugText += '\n' + ICON_CONTEXT + ': ' + state.memory.context
   return debugText
@@ -1038,7 +1038,7 @@ const modifier = (text) => {
   
   // Store results in memory before passing modified text input off to the A.I.
   state.memory = {
-    authorsNote: state.authorsNoteText,
+    // authorsNote: state.authorsNoteText,
     context:  state.contextText,
     frontMemory: state.frontMemoryText
   }
