@@ -13,7 +13,7 @@ Simply copy the code found in `InputModifier.js`, `ContextModifier.js`, and `Out
 
 *Optional:* After pasting the code, follow the instructions in the red colored comments found at the top of `InputModifier.js` to install/uninstall individual modules as you see fit.
 
-**Tip:** If you're worried about making a mistake and rendering your scenario unplayable, simply make a duplicate of it before pasting the scripts. "Duplicate" is a feature added in a recent update and is the double-page icon found in the top-right corner of the *Edit Scenario* screen.
+**Tip:** If you're worried about making a mistake and rendering your scenario unplayable, simply make a duplicate of it before pasting the scripts. "Duplicate" is a feature added to AI Dungeon in a recent update and is the double-page icon found in the top-right corner of the *Edit Scenario* screen.
 
 **Bonus Tip:** In case you didn't duplicate your scenario but want to remove the script pack, you can find the default code that's included with all newly created scenarios in the `/default` folder. Simply replace the script pack code with the default code to revert.
 
