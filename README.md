@@ -15,7 +15,7 @@ Simply copy the code found in the `/modifiers` folder. (You currently only need 
 
 **Tip 1:** If you're worried about making a mistake and rendering your scenario unplayable, simply make a duplicate of it before pasting the scripts. "Duplicate" is a feature added to AI Dungeon in a recent update and is the double-page icon found in the top-right corner of the *Edit Scenario* screen. This is not a good solution for scenarios that are already published, as user interactions (upvotes/comments) are NOT duplicated. In that case, see the next tip.
 
-**Tip 2:** In case you didn't duplicate your scenario but want to remove the script pack, you can find the default code that's included with all newly created scenarios in the `/default` folder. Simply replace the script pack code with the default code to revert.
+**Tip 2:** In case you didn't duplicate your scenario but want to remove the script pack, you can find the default code that's included with all newly created scenarios in the `/default` folder here. Simply replace the script pack code in your scenario's *Scripts* page with the default code to revert.
 
 <sub>*\*Note: Please be aware that as of this writing, you need a premium subscription to access and use *Scripts*.*</sub>
 
