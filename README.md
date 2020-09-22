@@ -1,7 +1,7 @@
 # MousAI Script Pack I for AI Dungeon
 **The MousAI Script Pack I for AI Dungeon scenario writers.**
 ## What's this?
-The MousAI Script Pack I is a collection of modularized scripts for use on the AI Dungeon website (https://aidungeon.io). The pack is designed primarily for scenario writers who want to add functionality to their scenarios but may not be comfortable messing around with code. However, it can also be a great resource for anyone who wants a curated pack of scripts that can easily be turned on/off at will, as the work necessary to integrate such disparate scripts and ensure their compatibility has already been done for you.
+The MousAI Script Pack I is a collection of modularized scripts for use in scenarios on the AI Dungeon website (https://aidungeon.io). The pack is designed primarily for scenario writers who want to add functionality to their scenarios but may not be comfortable messing around with code. However, it can also be a great resource for anyone who wants a curated pack of scripts that can easily be turned on/off at will, as the work necessary to integrate such disparate scripts and ensure their compatibility has already been done for you.
 ### How does it work?
 Scenario writers need only copy and paste the scripts into their scenarios, then use World Info or "/" commands ("slash commands") to utilize the functions they want to use.
 ### It's really that easy?
