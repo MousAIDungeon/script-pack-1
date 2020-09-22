@@ -20,6 +20,10 @@ const MY_MODULE = {
   // TODO Change this property to your module's name.
     state.myModule = null;
   },
+  isEnabled: function() {
+  // TODO Change this property to your module's name.
+    return Boolean(state.myModule);
+  },
   disable: function() {
     if (this.isEnabled()) {
       this.destroy();
@@ -33,10 +37,6 @@ const MY_MODULE = {
       return true;
     }
     return false;
-  },
-  isEnabled: function() {
-  // TODO Change this property to your module's name.
-    return Boolean(state.myModule);
   },
   getHelpText: function() {
     const enabled = this.isEnabled();
