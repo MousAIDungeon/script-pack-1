@@ -6,22 +6,20 @@ const MY_MODULE = {
   // Your players will see this in messages and the help menu.
   toString: () => '[📐 My Module]',
   execute: function(text) {
-    if (this.isEnabled()) {
-      // TODO Your module's logic goes here.
-    }
+    // TODO Your module's logic goes here.
   },
   initialize: function() {
-  // TODO Change this property to your module's name.
+    // TODO Change this property to your module's name.
     state.myModule = Object.seal({
       // TODO Your module's properties go here.
     });
   },
   destroy: function() {
-  // TODO Change this property to your module's name.
+    // TODO Change this property to your module's name.
     state.myModule = null;
   },
   isEnabled: function() {
-  // TODO Change this property to your module's name.
+    // TODO Change this property to your module's name.
     return Boolean(state.myModule);
   },
   disable: function() {
